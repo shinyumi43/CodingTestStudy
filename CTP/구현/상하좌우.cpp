@@ -1,4 +1,5 @@
-#include <bits/stdc++.h> // 모든 표준 라이브러리가 포함된 헤더
+#include <iostream>
+#include <string>
 using namespace std;
 
 int main(void){

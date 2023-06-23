@@ -1,0 +1,18 @@
+이분탐색 - binary search
+어떤 값보다 작은 것들 중 최대
+어떤 값보다 큰 것들 중 최소
+위와 같은 것을 구할 때 활용하는 것
+
+lo = 0
+hi = 8
+while(lo <= hi){
+    mid = (lo + hi) / 2;
+    //매번 반으로 나눠 담음
+    if mid 주황 바탕
+        ans = mid
+        hi = mid - 1;
+    else 
+        lo = mid + 1;
+}
+
+시간 복잡도 O(log n)
